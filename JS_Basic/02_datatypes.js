@@ -11,4 +11,4 @@ let state = null; // no value assigned yet
 //undefined => value not defined
 
 console.log(typeof undefined); // undefined
-console.log(typeof null); // object
+console.log(typeof null); // object 
